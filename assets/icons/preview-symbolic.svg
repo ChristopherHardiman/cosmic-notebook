@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Preview Symbolic Icon - COSMIC Style -->
+<!-- 16x16 symbolic icon using currentColor for theme adaptation -->
+<!-- Eye icon representing preview mode -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Eye outline -->
+  <path d="M 1 8 C 1 8 4 3 8 3 C 12 3 15 8 15 8 C 15 8 12 13 8 13 C 4 13 1 8 1 8 Z"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1"
+        stroke-linejoin="round"/>
+  <!-- Iris/pupil -->
+  <circle cx="8" cy="8" r="2.5"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1"/>
+  <!-- Pupil dot -->
+  <circle cx="8" cy="8" r="1"
+          fill="currentColor"/>
+</svg>

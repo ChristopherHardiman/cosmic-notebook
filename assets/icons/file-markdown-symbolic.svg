@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- File Markdown Symbolic Icon - COSMIC Style -->
+<!-- 16x16 symbolic icon using currentColor for theme adaptation -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Document outline -->
+  <path d="M 3 1.5 C 2.45 1.5 2 1.95 2 2.5 L 2 13.5 C 2 14.05 2.45 14.5 3 14.5 L 13 14.5 C 13.55 14.5 14 14.05 14 13.5 L 14 5.5 L 10 1.5 Z"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1"
+        stroke-linejoin="round"/>
+  <!-- Folded corner -->
+  <path d="M 10 1.5 L 10 5.5 L 14 5.5"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1"
+        stroke-linejoin="round"/>
+  <!-- Markdown "M" symbol -->
+  <path d="M 4.5 11 L 4.5 8 L 6 9.5 L 7.5 8 L 7.5 11 M 9 8 L 9 11 L 11.5 9.5"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>

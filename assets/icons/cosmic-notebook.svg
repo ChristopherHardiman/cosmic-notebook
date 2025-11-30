@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Variant 3: Minimalist Orange/Amber -->
+<!-- Warm tones, clean design -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B"/>
+      <stop offset="100%" style="stop-color:#D97706"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="112" height="112" rx="24" ry="24" fill="url(#bg3)"/>
+  <!-- Simple paper icon -->
+  <path d="M 32 24 L 32 104 L 96 104 L 96 44 L 76 24 Z" fill="#FFFFFF"/>
+  <path d="M 76 24 L 76 44 L 96 44" fill="#FEF3C7" stroke="#F59E0B" stroke-width="1"/>
+  <!-- Text lines -->
+  <g stroke="#D97706" stroke-width="2" stroke-linecap="round" opacity="0.5">
+    <line x1="42" y1="55" x2="86" y2="55"/>
+    <line x1="42" y1="68" x2="80" y2="68"/>
+    <line x1="42" y1="81" x2="72" y2="81"/>
+  </g>
+  <!-- MD text -->
+  <text x="64" y="100" font-family="sans-serif" font-size="16" font-weight="bold" fill="#92400E" text-anchor="middle">.md</text>
+</svg>

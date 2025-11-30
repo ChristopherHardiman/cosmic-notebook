@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Folder Closed Symbolic Icon - COSMIC Style -->
+<!-- 16x16 symbolic icon using currentColor for theme adaptation -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Closed folder shape -->
+  <path d="M 1.5 4.5 C 1.5 3.95 1.95 3.5 2.5 3.5 L 6.5 3.5 L 8 5 L 13.5 5 C 14.05 5 14.5 5.45 14.5 6 L 14.5 12.5 C 14.5 13.05 14.05 13.5 13.5 13.5 L 2.5 13.5 C 1.95 13.5 1.5 13.05 1.5 12.5 Z"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1"
+        stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Split View Symbolic Icon - COSMIC Style -->
+<!-- 16x16 symbolic icon using currentColor for theme adaptation -->
+<!-- Two panels side by side -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Left panel -->
+  <rect x="1.5" y="2" width="5.5" height="12" rx="1" ry="1"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1"/>
+  <!-- Right panel -->
+  <rect x="9" y="2" width="5.5" height="12" rx="1" ry="1"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1"/>
+  <!-- Optional: lines in panels to indicate content -->
+  <g stroke="currentColor" stroke-width="0.75" stroke-linecap="round" opacity="0.6">
+    <line x1="2.5" y1="4" x2="6" y2="4"/>
+    <line x1="2.5" y1="6" x2="5.5" y2="6"/>
+    <line x1="2.5" y1="8" x2="6" y2="8"/>
+    <line x1="10" y1="4" x2="13.5" y2="4"/>
+    <line x1="10" y1="6" x2="13" y2="6"/>
+    <line x1="10" y1="8" x2="13.5" y2="8"/>
+  </g>
+</svg>
